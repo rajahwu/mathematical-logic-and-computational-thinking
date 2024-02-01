@@ -1,4 +1,4 @@
-# Recursion and Backtrcking
+# Recursion and Backtracking
 
 ## Examples Algorithms of Recursion
 
