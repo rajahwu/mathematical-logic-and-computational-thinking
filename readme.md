@@ -29,22 +29,22 @@ The repository is organized into different directories, each serving a specific 
 
 Materials related to the MIT 6.0001 course, including lecture slides, problem sets, and additional Python resources. Check out the `psets` directory for problem sets and solutions.
 
-## [Data Structures and Algorithms](/dsna/readme.md)
+## [Data Structures and Algorithms](/dsna)
 
 Materials related to Data Structures and Algorithms, including markdown notes and Python code snippets.
 
-## [Graphics](/graphics/readme.md)
+## [Graphics](/graphics)
 
 Code related to graphics including Python scripts for creating graphics using the Tkinter, Turtle and Matplotlib modules.
 
-## [Logic](/logic/readme.md)
+## [Logic](/logic)
 
 This section contains various PDFs, books, and resources related to mathematics and logic. Feel free to explore and use these materials for learning and reference.
 
-## [Mathematics](/mathematics/readme.md)
+## [Mathematics](/mathematics)
 
 This directory contains Python code and notebooks covering foundational math topics. The code is organized by week or topic for easy reference.
 
-## [Texts](/texts/readme.md)
+## [Texts](/texts)
 
 A collection of PDFs and documents related to various texts on mathematics and computing. Useful for reference and additional reading.
