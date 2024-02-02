@@ -6,11 +6,11 @@ This repository is a collection of resources, code snippets, and materials relat
 
 1. [Math Repository](#directory-structure)
 2. [Computation](#computation)
-3. [Data Structure and Algorithms](#dsna)
+3. [Data Structures and Algorithms](#data-structures-and-algorithms)
 4. [Graphics](#graphics)
 5. [Logic](#logic)
-4. [Mathematics](#mathematics)
-6. [Texts](#texts)
+6. [Mathematics](#mathematics)
+7. [Texts](#texts)
 
 ## Directory Structure
 
