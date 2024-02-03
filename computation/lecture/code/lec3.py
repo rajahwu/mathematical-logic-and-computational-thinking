@@ -34,7 +34,7 @@
 
     
 ####################
-## EXAMPLE: perfect cube 
+## EXAMPLE: perfect cube
 ####################
 #cube = 27
 ##cube = 8120601
@@ -45,7 +45,7 @@
     
 
 ####################
-## EXAMPLE: guess and check cube root 
+## EXAMPLE: guess and check cube root
 ####################
 #cube = 27
 ##cube = 8120601
@@ -63,7 +63,7 @@
 
 
 ####################
-## EXAMPLE: approximate cube root 
+## EXAMPLE: approximate cube root
 ####################
 #cube = 27
 ##cube = 8120601
