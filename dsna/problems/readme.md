@@ -2,8 +2,8 @@
 
 ## Arrays
 
-1. 🟠 [Two Sum](https://leetcode.com/problems/two-sum/)
-2. 🟢 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+1. 🟠 [Two Sum](https://leetcode.com/problems/two-sum/) | [code](./two_sum.ipynb)
+2. 🟢 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [code](./container_with_most_water.ipynb)
 3. 🟠 [3 Sum](https://leetcode.com/problems/3sum/)
 4. 🔴 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 5. 🟠 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
